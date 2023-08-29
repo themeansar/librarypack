@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.3" created="2023-08-28 11:41" -->
+	<!-- generator="WordPress/6.3" created="2023-08-29 09:26" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -26,10 +26,10 @@
 >
 
 <channel>
-	<title>My Blog</title>
+	<title>Business</title>
 	<link>https://wpennova.com/business</link>
-	<description>My WordPress Blog</description>
-	<pubDate>Mon, 28 Aug 2023 11:41:29 +0000</pubDate>
+	<description>Business Buid</description>
+	<pubDate>Tue, 29 Aug 2023 09:26:42 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://wpennova.com/business</wp:base_site_url>
@@ -954,8 +954,8 @@
 		<wp:post_id>9</wp:post_id>
 		<wp:post_date><![CDATA[2021-04-27 07:42:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-04-27 07:42:38]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-03-30 09:49:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-03-30 09:49:30]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-08-29 09:26:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-08-29 09:26:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[default-kit]]></wp:post_name>
@@ -983,7 +983,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_page_settings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:12:{s:13:"system_colors";a:4:{i:0;a:3:{s:3:"_id";s:7:"primary";s:5:"title";s:7:"Primary";s:5:"color";s:7:"#6EC1E4";}i:1;a:3:{s:3:"_id";s:9:"secondary";s:5:"title";s:9:"Secondary";s:5:"color";s:7:"#54595F";}i:2;a:3:{s:3:"_id";s:4:"text";s:5:"title";s:4:"Text";s:5:"color";s:7:"#7A7A7A";}i:3;a:3:{s:3:"_id";s:6:"accent";s:5:"title";s:6:"Accent";s:5:"color";s:7:"#61CE70";}}s:13:"custom_colors";a:0:{}s:17:"system_typography";a:4:{i:0;a:5:{s:3:"_id";s:7:"primary";s:5:"title";s:7:"Primary";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:6:"Roboto";s:22:"typography_font_weight";s:3:"600";}i:1;a:5:{s:3:"_id";s:9:"secondary";s:5:"title";s:9:"Secondary";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:11:"Roboto Slab";s:22:"typography_font_weight";s:3:"400";}i:2;a:5:{s:3:"_id";s:4:"text";s:5:"title";s:4:"Text";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:6:"Roboto";s:22:"typography_font_weight";s:3:"400";}i:3;a:5:{s:3:"_id";s:6:"accent";s:5:"title";s:6:"Accent";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:6:"Roboto";s:22:"typography_font_weight";s:3:"500";}}s:17:"custom_typography";a:0:{}s:21:"default_generic_fonts";s:10:"Sans-serif";s:9:"site_name";s:7:"My Blog";s:16:"site_description";s:17:"My WordPress Blog";s:15:"container_width";a:3:{s:4:"unit";s:2:"px";s:4:"size";i:1220;s:5:"sizes";a:0:{}}s:21:"space_between_widgets";a:3:{s:4:"unit";s:2:"px";s:4:"size";i:15;s:5:"sizes";a:0:{}}s:19:"page_title_selector";s:14:"h1.entry-title";s:11:"viewport_md";i:768;s:11:"viewport_lg";i:1025;}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:12:{s:13:"system_colors";a:4:{i:0;a:3:{s:3:"_id";s:7:"primary";s:5:"title";s:7:"Primary";s:5:"color";s:7:"#6EC1E4";}i:1;a:3:{s:3:"_id";s:9:"secondary";s:5:"title";s:9:"Secondary";s:5:"color";s:7:"#54595F";}i:2;a:3:{s:3:"_id";s:4:"text";s:5:"title";s:4:"Text";s:5:"color";s:7:"#7A7A7A";}i:3;a:3:{s:3:"_id";s:6:"accent";s:5:"title";s:6:"Accent";s:5:"color";s:7:"#61CE70";}}s:13:"custom_colors";a:0:{}s:17:"system_typography";a:4:{i:0;a:5:{s:3:"_id";s:7:"primary";s:5:"title";s:7:"Primary";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:6:"Roboto";s:22:"typography_font_weight";s:3:"600";}i:1;a:5:{s:3:"_id";s:9:"secondary";s:5:"title";s:9:"Secondary";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:11:"Roboto Slab";s:22:"typography_font_weight";s:3:"400";}i:2;a:5:{s:3:"_id";s:4:"text";s:5:"title";s:4:"Text";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:6:"Roboto";s:22:"typography_font_weight";s:3:"400";}i:3;a:5:{s:3:"_id";s:6:"accent";s:5:"title";s:6:"Accent";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:6:"Roboto";s:22:"typography_font_weight";s:3:"500";}}s:17:"custom_typography";a:0:{}s:21:"default_generic_fonts";s:10:"Sans-serif";s:9:"site_name";s:8:"Business";s:16:"site_description";s:13:"Business Buid";s:15:"container_width";a:3:{s:4:"unit";s:2:"px";s:4:"size";i:1220;s:5:"sizes";a:0:{}}s:21:"space_between_widgets";a:3:{s:4:"unit";s:2:"px";s:4:"size";i:15;s:5:"sizes";a:0:{}}s:19:"page_title_selector";s:14:"h1.entry-title";s:11:"viewport_md";i:768;s:11:"viewport_lg";i:1025;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
